@@ -53,7 +53,7 @@ Finds patterns between how long students take and how well they perform in field
 
 ## 🖼️ Dashboard Preview
 
-![Educational Insights Dashboard]( )
+![Educational Insights Dashboard](https://github.com/Sangeetha-K-04/Educational_Insights/blob/main/dashboard.jpg?raw=true)
 
 > 📍 *Image above: The Tableau Dashboard in action, revealing dropout rates, GPA patterns, and age-wise insights.*
 
