@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/educational_insights_banner.png" alt="Cracking the Code: Educational Insights" width="100%">
+  <img src="https://github.com/Sangeetha-K-04/Educational_Insights/blob/main/Education-Policies.jpg?raw=true" alt="Cracking the Code: Educational Insights" width="50%">
 </p>
 
 # 🎓 Cracking the Code: Educational Insights Dashboard 📊
@@ -53,7 +53,7 @@ Finds patterns between how long students take and how well they perform in field
 
 ## 🖼️ Dashboard Preview
 
-![Educational Insights Dashboard](assets/educational_dashboard.png)
+![Educational Insights Dashboard]( )
 
 > 📍 *Image above: The Tableau Dashboard in action, revealing dropout rates, GPA patterns, and age-wise insights.*
 
